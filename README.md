@@ -1,7 +1,7 @@
 # Shuffled Frog Leaping Algorithm (SFLA) in MATLAB
 
-<p align = "center">
-    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea109-shuffled-frog-leaping-algorithm.jpg" alt = "Shuffled Frog Leaping Algorithm (SFLA) in MATLAB">
+<p align="center">
+    <img src="https://yarpiz.com/wp-content/uploads/2015/09/ypea109-shuffled-frog-leaping-algorithm.jpg" alt="Shuffled Frog Leaping Algorithm (SFLA) in MATLAB">
 </p>
 
 This is an implementation of Shuffled Frog Leaping Algorithm (SFLA) in MATLAB.
